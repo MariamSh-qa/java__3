@@ -1,6 +1,6 @@
 package org.example;
 
-public class Main {
+public class MainFor {
     static void main() {
 
         //How to print TWICE. Starting from 0.
