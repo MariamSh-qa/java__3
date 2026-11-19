@@ -1,6 +1,6 @@
 package org.example;
 
-public class NestedFor {
+public class ForNested {
     static void main(String[] args) {
 
         for (int i=0; i<3; i++){

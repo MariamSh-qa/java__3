@@ -1,6 +1,6 @@
 package org.example;
 
-public class While1BrContinue {
+public class WhileBreakContinue {
     static void main(String[] args) {
 
         int i=0;
