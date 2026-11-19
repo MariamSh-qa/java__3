@@ -28,10 +28,5 @@ public class MainFor {
             System.out.println(i);
         }
 
-
-
-
-
-
     }
 }

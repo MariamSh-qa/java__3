@@ -10,8 +10,6 @@ public class WhileNested {
             i++;
 
 
-
-
             int j=0;
             while (j<2)
             {
