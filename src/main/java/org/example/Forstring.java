@@ -1,6 +1,6 @@
 package org.example;
 
-public class StrFor {
+public class Forstring {
     static void main(String[] args) {
 
         String text = "Test";

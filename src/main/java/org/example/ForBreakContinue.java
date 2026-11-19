@@ -1,6 +1,6 @@
 package org.example;
 
-public class BreakContinue {
+public class ForBreakContinue {
     static void main(String[] args) {
 
         for (int i=1; i<=20; i++){

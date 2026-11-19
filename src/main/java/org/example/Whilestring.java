@@ -1,6 +1,6 @@
 package org.example;
 
-public class StrWhile {
+public class Whilestring {
     static void main(String[] args) {
 
         String text ="Software";
